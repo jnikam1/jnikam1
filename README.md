@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there 👋 I am Jayesh Nikam.
 
-<!--
-**jnikam1/jnikam1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📫 How to reach me: https://www.linkedin.com/in/jayesh-nikam/ || https://github.com/jnikam1
 
-Here are some ideas to get you started:
+##Facts about me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Python projects.
+- 🌱 I’m currently learning Python, Data Structres, OOP.
+- 👯 I’m looking to collaborate on Software Development Projects
+- 👀 I’m looking for a Full Time job as a Software Developer/Software Engineer
+- 💬 Ask me about Python, Data Structres, SQL, Linux. 
+- 😄 Pronouns: He/Him
+
+Thank You-🙏🏼
+
+⭐️ Jayesh Satish Nikam
