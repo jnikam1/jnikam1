@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Jayesh Nikam.
 
-### 📫 How to reach me: https://www.linkedin.com/in/jayesh-nikam/ || https://github.com/jnikam1
+### 📫 How to reach me: linkedin.com/in/jayesh-nikam/ || github.com/jnikam1
 
 ##Facts about me:
 
